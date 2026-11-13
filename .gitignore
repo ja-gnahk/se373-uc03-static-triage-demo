@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+OPERATOR_ONLY_GROUND_TRUTH.txt
+publish-demo.ps1
